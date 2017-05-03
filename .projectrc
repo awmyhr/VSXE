@@ -1,0 +1,14 @@
+{
+  projectrc_version: '1.0.0',
+  contact_email: 'awmyhr@gmail.com',
+  contact_name: 'awmyhr',
+  email: 'awmyhr@gmail.com',
+  full_name: 'awmyhr',
+  project_home: 'https://github.com/awmyhr/VSXE',
+  project_name: '(Virtual) Standard *NIX Environment',
+  project_slug: 'VSXE',
+  project_abbr: '(V)SXE',
+  project_version: '2017.05.03',
+  software_copyright: '2017 awmyhr',
+  software_license: 'Apache-2.0'
+}
