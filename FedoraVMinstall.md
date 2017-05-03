@@ -98,7 +98,7 @@ Desktop packages
 
 Tools of the trade
 
-    dnf -y install ansible ansible-lint ansible-review dstat gpm iotop iptraf-ng ps_mem psmisc sg3_utils strace tmux atop autojump autojump-zsh bmon moreutils htop ifstat iftop ibmonitor jnettop mosh multitail ncdu nethogs ntop tcptrack inxi glances ShellCheck p7zip p7zip-plugins diffuse fuse-sshfs dstat gpm iotop iptraf-ng ps_mem psmisc sg3_utils strace tmux zsh pylint
+    dnf -y install ansible ansible-lint ansible-review python2-dnf dstat gpm iotop iptraf-ng ps_mem psmisc sg3_utils strace tmux atop autojump autojump-zsh bmon moreutils htop ifstat iftop ibmonitor jnettop mosh multitail ncdu nethogs ntop tcptrack inxi glances ShellCheck p7zip p7zip-plugins diffuse fuse-sshfs dstat gpm iotop iptraf-ng ps_mem psmisc sg3_utils strace tmux zsh pylint
 
 vim & git packages
 
